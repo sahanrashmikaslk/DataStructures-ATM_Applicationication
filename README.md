@@ -1,4 +1,4 @@
-# ATM Application using Data Structures
+# ATM Application with Data Structures (C++)
 
 This project is a Command Line Interface (CLI) ATM application developed during the 2nd year of university. It implements various banking operations using data structures and provides a user-friendly interface for customers to manage their accounts.
 
